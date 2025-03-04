@@ -1,3 +1,6 @@
+print("Auto Fast Typing - loaded successfully!")
+print("Made by RoKanchik_YT")
+
 local wpm = 250 -- set wpm (max wpm is 250 as to prevent bans!!)
 local accuracy = 100 -- accuracy (make it 1-100)
 while true do
